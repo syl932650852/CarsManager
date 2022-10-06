@@ -9,6 +9,7 @@ int main() {
     Admin admin;
 
     char ch;
+    cout << "111" <<endl;
     while(1)
     {
         system("cls");
